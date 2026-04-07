@@ -4,6 +4,9 @@ import jakarta.persistence.*;
 
 import java.lang.annotation.Inherited;
 
+
+@Entity
+@Table(name = "contacts")
 public class Contact {
 
     @Id
