@@ -1,4 +1,4 @@
-package com.ironhack.demo_lab.entity;
+package com.ironhack.demo_lab.Challenge1;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Embeddable;

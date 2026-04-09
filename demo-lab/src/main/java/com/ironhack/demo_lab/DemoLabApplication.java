@@ -1,9 +1,9 @@
 package com.ironhack.demo_lab;
 
-import com.ironhack.demo_lab.entity.Association;
-import com.ironhack.demo_lab.entity.Division;
-import com.ironhack.demo_lab.entity.Member;
-import com.ironhack.demo_lab.entity.MemberStatus;
+import com.ironhack.demo_lab.Challenge2.Association;
+import com.ironhack.demo_lab.Challenge2.Division;
+import com.ironhack.demo_lab.Challenge2.Member;
+import com.ironhack.demo_lab.Challenge2.MemberStatus;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 

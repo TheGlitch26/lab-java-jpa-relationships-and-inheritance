@@ -1,8 +1,6 @@
-package com.ironhack.demo_lab.entity;
+package com.ironhack.demo_lab.Challenge1;
 
 import jakarta.persistence.*;
-
-import java.lang.annotation.Inherited;
 
 
 @Entity
