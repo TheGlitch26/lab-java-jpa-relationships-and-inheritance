@@ -4,6 +4,7 @@ import com.ironhack.demo_lab.Challenge2.Association;
 import com.ironhack.demo_lab.Challenge2.Division;
 import com.ironhack.demo_lab.Challenge2.Member;
 import com.ironhack.demo_lab.Challenge2.MemberStatus;
+import com.ironhack.demo_lab.Challenge2.repository.AssociationRepository;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
@@ -40,6 +41,7 @@ public class DemoLabApplication {
 		Member member5 = new Member("Omar", MemberStatus.ACTIVE, division5);
 		Member member6 = new Member("Qurbanali", MemberStatus.ACTIVE, division6);
 		Member member7 = new Member("Islam", MemberStatus.ACTIVE, division7);
+
 	}
 
 }
